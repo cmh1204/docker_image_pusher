@@ -4,4 +4,7 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 yrzr/gitlab-ce-arm64v8:latest
-hyperdl/py-runtime:1.2.1_with_script
+hyperdl/nginx:1.22.0
+hyperdl/java-go-env:1.0.0
+hyperdl/geoserver:1.0.0
+hyperdl/notebook-agent:v1.0.0
