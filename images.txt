@@ -4,5 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 yrzr/gitlab-ce-arm64v8:latest
-hyperdl/postgres:12.12
-hyperdl/redis:5.0.12
+abiosoft/caddy:latest
