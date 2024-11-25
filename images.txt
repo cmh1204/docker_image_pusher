@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 yrzr/gitlab-ce-arm64v8:latest
-hyperdl/hyperdl-service-base-amd64:v4.2.3  
+ubuntu:18.04
