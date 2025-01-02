@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 alpine:latest
-thomassong/gpu-manager:master
+prom/blackbox-exporter:latest
