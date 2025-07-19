@@ -4,5 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 
-installation-package:v1.13.1
+kubeedge/installation-package:v1.13.1
 
